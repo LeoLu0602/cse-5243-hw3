@@ -2,12 +2,12 @@
 ## Folder Structure
 ```
 ├─src
-│  ├─hw3.ipynb
-│  ├─requirements.txt       
+│  ├─hw3.ipynb    
 │  ├─imdb_labelled.txt                            
 │  ├─amazon_labelled.txt   
 │  ├─imdb_labelled.txt          
-│  └─yelp_labelled.txt         
+│  └─yelp_labelled.txt
+├─requirements.txt        
 └─README.md
 ```
 ## How to Run
